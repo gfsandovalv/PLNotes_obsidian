@@ -12,7 +12,6 @@ This means that $\psi$ is squared-integrable ($\psi \in L^2$).
 
 #TODO show that it allways converges given that $\psi$ and $\phi$ be elemets of $\mathcal F$
 #TODO add properties of inner product
-![[Pasted image 20221226210038.png]]
 ## Linear operators
 
 > [!Definition] 
