@@ -8,11 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf69121b67adf0b7",
+            "id": "6b5a26d680f26a59",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Organigrama.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -82,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organigrama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organigrama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organigrama.md"
+              }
             }
           }
         ]
@@ -140,13 +150,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "cf69121b67adf0b7",
+  "active": "6b5a26d680f26a59",
   "lastOpenFiles": [
+    "README.md",
     "Mecánica Cuántica/Functions space.md",
     "Mecánica Cuántica/Eigenvalue equations.md",
     "Pasted image 20221226210038.png.md",
     "Matemáticas/Levi-Civita symbol.md",
-    "README.md",
     "Mecánica Cuántica/Angular momentum.md",
     "About knowledge bases and managment.md",
     "Quantum Mechanics/Functions space.md",

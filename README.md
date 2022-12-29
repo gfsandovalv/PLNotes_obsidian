@@ -21,12 +21,6 @@ Las notas están pensadas para funcioar en [Obsidian](https://obsidian.md/). El 
 Obsidian es una aplicación para crear notas interconectadas mediante hipervínculos internos. En este [enlace](https://carreraprofesional.com/que-es-obsidian-aplicacion-para-tomar-notas/) se muestra un síntesis de lo que es obsidian y las características que tiene.  Se basa en el formato [markdown](https://tutorialmarkdown.com/guia).
 
 
-
-# Actualmente trabajando en:
-
-[[Quantum Mechanics/Angular momentum]]
-[[Trajectories]]
-
 # Colaboradores
 
 - Pepito perez - pepito@gmail.com
