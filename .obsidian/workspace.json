@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Matemáticas/Levi-Civita symbol.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Matemáticas/Levi-Civita symbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Matemáticas/Levi-Civita symbol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Matemáticas/Levi-Civita symbol.md"
               }
             }
           }
@@ -138,20 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false,
       "canvas:Create new canvas": false
     }
   },
   "active": "cf69121b67adf0b7",
   "lastOpenFiles": [
-    "Mecánica Cuántica/Angular momentum.md",
     "README.md",
+    "Mecánica Cuántica/Angular momentum.md",
     "About knowledge bases and managment.md",
     "Quantum Mechanics/Functions space.md",
     "Quantum Mechanics/Commutation Relations.md",
