@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obsidian Nord",
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "big-math",
+    "numbered_eqs",
+    "title_embbeded_note"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "textFontFamily": "Ubuntu",
+  "interfaceFontFamily": "Ubuntu"
+}

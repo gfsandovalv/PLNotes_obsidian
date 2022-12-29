@@ -1,0 +1,17 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-indigo-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-cyan-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-light-dt",
+  "obsidian-prism-theme@@nav-header-left-sidebar-position": "pt-nav-header-left-sidebar-position-top",
+  "obsidian-prism-theme@@nav-header-right-sidebar-position": "pt-nav-header-right-sidebar-position-top",
+  "obsidian-prism-theme@@right-sidebar-tab-label-alignment": "pt-tab-label-right-sidebar-left",
+  "obsidian-prism-theme@@file-explorer-left-margin": 2,
+  "com-github-birneee-obsidian-adwaita@@adwaita-mod": "adwaita-mod-always",
+  "com-github-birneee-obsidian-adwaita@@adwaita-colors": "adwaita-colors-linux-only",
+  "encore-settings@@shaded-title": true,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-disable-clickability-fix": false,
+  "encore-settings@@encore-no-calendar": false,
+  "encore-settings@@theme-colours": "encore-theme-atom"
+}
