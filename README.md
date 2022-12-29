@@ -5,8 +5,7 @@ Las notas están pensadas para funcioar en [Obsidian](https://obsidian.md/). El 
 # Instrucciones
 
 1. Descargar [Obsidian](https://obsidian.md/)
-
-![[obsidian_web_page.png]]
+![](obsidian_web_page.png)
 2. Clonar este repositorio 
 3. Abrir obsidian. Al ejecturarse por primera vez, se muestra una ventana como la siguiente 
 ![[obsidian_initial_screen.png]]

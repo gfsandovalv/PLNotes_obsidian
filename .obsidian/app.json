@@ -3,5 +3,6 @@
   "promptDelete": false,
   "showInlineTitle": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "useMarkdownLinks": true
 }
