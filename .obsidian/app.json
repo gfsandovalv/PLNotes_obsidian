@@ -4,5 +4,5 @@
   "showInlineTitle": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
